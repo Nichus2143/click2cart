@@ -1,4 +1,4 @@
-# MERN AMAZONA
+# MERN CLICK2CART
 
 # Lessons
 
